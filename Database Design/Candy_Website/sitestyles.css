@@ -1,0 +1,120 @@
+body {
+    background-image: url('assets/pastel_background.jpg');
+}
+/*Error*/
+.login-error {
+    color:white;
+    text-align: center;
+    font-size: 20px;
+}
+
+/*Login Styles*/
+.company-name-login{
+    color:white;
+    text-align: center;
+    padding: 40px;
+}
+.card-title{
+    text-align: center;
+}
+
+.login-card{
+    width: 40rem; 
+    margin: auto;
+}
+
+.button-container{
+    text-align: center;
+}
+
+/*FrontPage Styles*/
+.company-name-frontpage{
+    background-color: black;
+    background: rgba(0, 0, 0, 0.438);
+    text-align: center;
+    padding: 5px;
+}
+
+.company-name-frontpage h1{
+    color: white;
+}
+
+.frontpage-card{
+    width: 50rem; 
+    margin: auto;
+    padding: 25px;
+}
+
+.logout-form{
+    padding: 0px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+/*SearchPage Styles*/
+.search-company-name-frontpage{
+    text-align: center;
+    padding: 5px;
+}
+
+/*ResultPage Styles*/
+.company-name-login{
+    color:white;
+    text-align: center;
+    padding: 40px;
+}
+.card-title{
+    text-align: center;
+}
+
+.separator{
+    padding: 20px;
+}
+
+.search-card{
+    width: 25rem; 
+    margin: auto;
+}
+
+.column {
+    float: left;
+    width: 25%;
+    padding: 10px;
+    height: 300px;
+  }
+  
+
+.row:after {
+content: "";
+display: table;
+clear: both;
+}
+
+.results-txt {
+    color:white;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+}
+
+/*Inventory Page Styles*/
+.inventory-text{
+    color: white;
+    font-weight: 1000;
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+}
+
+/*Shopping Cart Page Styles*/
+.cart-card{
+    width: 20rem; 
+    margin: auto;
+}
+
+/*Checkout Page Styles*/
+.checkout-text{
+    margin: auto;
+}
